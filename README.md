@@ -1,9 +1,9 @@
-# Step-by-Step WebGPU Graphics Programming (26) 
+# Step-by-Step WebGPU Graphics Programming (47) 
 ## Create a torus Wireframe
 
-This is the source code for the 26th part of a series YouTube videos on step-by-step WebGPU graphics programming.
+This is the source code for the 47th part of a series YouTube videos on step-by-step WebGPU graphics programming.
 
-This sample WebGPU app creates a 3D peaks surface. The output from the app is shown in the following image.
+This sample WebGPU app creates a 3D Klein bottle surface chart. The output from the app is shown in the following image.
 
 ![image01](dist/assets/image01.png)
 
